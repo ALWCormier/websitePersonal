@@ -1,0 +1,5 @@
+{% load static %}
+
+.buffer {
+    height: 3rem;
+}
